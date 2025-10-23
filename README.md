@@ -56,12 +56,14 @@ Desarrollo soluciones escalables para la integración, transformación y control
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 
+
 **Otros**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 **Animación y Modelado 3D**: <br> <br>
 ![Blender](https://img.shields.io/badge/Blender-E57934?style=for-the-badge&logo=blender&logoColor=white)
@@ -71,28 +73,9 @@ Desarrollo soluciones escalables para la integración, transformación y control
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cG1vZ2JyajQzdWNkbWo3OTBqZzB1eHk3eHY0cjE1Z3gwMzZ2dTB2bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UCQ5LookOT2ufbsGiT/giphy.gif" width="18"> Estadísticas de GitHub 
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scaeiroo&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scaeiroo&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph">
-</p>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJzNzJ6eGZ6NHF4M2ZoeTVzOXZlbW00dndwYXNxNWxmdGYwZTk0YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" width="400">
-
-</div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJzNzJ6eGZ6NHF4M2ZoeTVzOXZlbW00dndwYXNxNWxmdGYwZTk0YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" width="300">
