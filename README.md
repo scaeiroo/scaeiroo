@@ -64,8 +64,8 @@ Desarrollo soluciones escalables para la integración, transformación y control
 ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+**Animación y Modelado 3D**
 
-**Animación y Modelado 3D**: </div> </div>
 ![Blender](https://img.shields.io/badge/Blender-E57934?style=for-the-badge&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Maya](https://img.shields.io/badge/Maya-00B4E4?style=for-the-badge&logo=autodesk-maya&logoColor=white)
@@ -73,7 +73,7 @@ Desarrollo soluciones escalables para la integración, transformación y control
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
-
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
