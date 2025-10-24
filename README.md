@@ -65,7 +65,7 @@ Desarrollo soluciones escalables para la integración, transformación y control
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-**Animación y Modelado 3D**: <br> <br>
+**Animación y Modelado 3D**:
 ![Blender](https://img.shields.io/badge/Blender-E57934?style=for-the-badge&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Maya](https://img.shields.io/badge/Maya-00B4E4?style=for-the-badge&logo=autodesk-maya&logoColor=white)
